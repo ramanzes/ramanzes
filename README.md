@@ -54,7 +54,7 @@
 # РЕАЛИЗОВАННЫЕ ПРОЕКТЫ
 1. [podari-les.ru](https://podari-les.ru): Интернет-магазин услуг по высадке деревьев.  
 2. [getapic_bot](https://t.me/getapic_bot): Telegram-бот на Java, предназначен для обработки изображений. 
-3. [javadoc.freemyip.com](89.107.10.155): Скрипт деплоя Markdown-файлов из базы данных программы Obsidian. Использован для конспекта лекций по Java. Исходный код доступен на [gitflic.ru](https://gitflic.ru/project/ramanzes/mkdocs-deploy-obsidian).  
+3. [javadoc.freemyip.com](http://89.107.10.155): Скрипт деплоя Markdown-файлов из базы данных программы Obsidian. Использован для конспекта лекций по Java. Исходный код доступен на [gitflic.ru](https://gitflic.ru/project/ramanzes/mkdocs-deploy-obsidian).  
 4. [gribbudda.itdid.ru](https://gribbudda.itdid.ru): Информационный сайт на PHP о фунготерапии.  
 5. [ekraton.itdid.ru](https://ekraton.itdid.ru): Информационный сайт на cms Joomla о здоровом образе жизни (ЗОЖ).  
 6. [vivacy.tilda.ws](https://vivacy.tilda.ws): Информационный сайт, созданный на Tilda, посвящен духовным практикам.  
